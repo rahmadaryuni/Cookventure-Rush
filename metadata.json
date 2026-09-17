@@ -1,0 +1,6 @@
+{
+  "name": "Cookventure Rush",
+  "description": "Game memasak 2D terinspirasi Overcooked dengan sistem World Map, kendaraan koki keliling, 5 level bertingkat, sistem bintang, dan gameplay dapur cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
